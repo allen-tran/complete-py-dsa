@@ -15,3 +15,5 @@ A complete repository of LeetCode solutions. LeetCode is an online algorithm jud
 
 ## Data Structures
 Data Structures or `DS` are key to understanding the fundmentals of programming. They teach us how data is stored, retrieved, and updated. In this repository, the following data structures are written: linked list, tree, stack, queue,  graph, and heap.
+
+![image](https://user-images.githubusercontent.com/63386979/170795648-48bc2167-7dd7-4118-a8de-79b06f629ff5.png)
