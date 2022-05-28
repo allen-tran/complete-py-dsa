@@ -1,13 +1,16 @@
 from __future__ import annotations
 from typing import Any
 
+
 class IndexOutOfRangeException(Exception):
     def __init__(self) -> None:
         super().__init__("Index out of range!")
-    
+
+
 class EmptyListException(Exception):
     def __init__(self) -> None:
         super().__init__("Attempted to remove or retrieve data from an empty list!")
+
 
 class Node:
     def __init__(self, val, next=None) -> None:
@@ -20,7 +23,6 @@ class Node:
         self._val = val
         self._next = next
 
-
     @property
     def val(self) -> Any:
         """getter for data
@@ -29,7 +31,7 @@ class Node:
             Any: value
         """
         return self._val
-    
+
     @property
     def next(self) -> Node:
         """getter for next pointer
@@ -46,6 +48,7 @@ class Node:
     @next.setter
     def next(self, next) -> None:
         self._next = next
+
 
 class LinkedList:
     def __init__(self) -> None:
@@ -88,7 +91,7 @@ class LinkedList:
             i = 0
             while i != position:
                 curr = curr.next
-                i+=1
+                i += 1
             node.next = curr.next
             curr.next = node
 
@@ -105,7 +108,7 @@ class LinkedList:
 
             while i != position - 1:
                 curr = curr.next
-                i+=1
+                i += 1
             node.next = curr.next
             curr.next = node
 
@@ -144,7 +147,7 @@ class LinkedList:
         if self.__check_position(position):
             if position == 0:
                 return self.pop_front()
-            
+
             curr = self.head
             for _ in range(position-1):
                 curr = curr.next
@@ -168,29 +171,25 @@ class LinkedList:
         if pos < 0 or pos >= self._size:
             raise IndexOutOfRangeException()
         return True
-        
+
     @property
     def size(self) -> int:
         return self._size
 
-
     @property
     def empty(self) -> bool:
         return self._size == 0
-        
-        
+
     def __len__(self) -> int:
         return self._size
-    
-    
+
     def __bool__(self) -> bool:
         return self._size != 0
-    
-    
+
     def __iter__(self):
         self._current = self._head
         return self
-    
+
     def __next__(self):
         if not self._current:
             raise StopIteration
@@ -198,7 +197,7 @@ class LinkedList:
             item = self._current.data
             self._current = self._current.link
             return item
-    
+
     def __getitem__(self, index):
         return self.__get_node_at(index).data
 
