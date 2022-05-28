@@ -9,7 +9,9 @@ class IndexOutOfRangeException(Exception):
 
 class EmptyListException(Exception):
     def __init__(self) -> None:
-        super().__init__("Attempted to remove or retrieve data from an empty list!")
+        super().__init__(
+            "Attempted to remove or retrieve data from an empty list!"
+        )
 
 
 class Node:
