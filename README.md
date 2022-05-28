@@ -1,9 +1,16 @@
-# LeetCode Solutions in Python 🐍
-A complete repository of LeetCode solutions. LeetCode is an online algorithm judging platform for engineers and mathmatcians to practice their problem solving abilities. Each solution is paired with a test file and README to understand the solution and overall problem. Please feel free to reference and star to support this repo, thank you!
+# Complete Handbook for DSA Solutions in Python 🐍
+
+A complete repository containing data structure implementations and LeetCode solutions. This can be used as a handbook to reference and learn these implementations in depth and a guide to study for interviews. Please feel free to reference and star to support this repo, thank you!
+
+![image](https://user-images.githubusercontent.com/63386979/170837571-cc97bcc9-5faa-4c4a-b227-ea354f1b2160.png)
+
+## LeetCode Solutions ✅
+
+LeetCode is an online algorithm judging platform for engineers and mathmatcians to practice their problem solving abilities. Practicing LeetCode is known to help with passing technical interviews and can greatly increase algorithmic skills. Each solution is paired with a test file and README to understand the solution and overall problem. See below for an updated list of the solved problems in this repo.
 
 ![image](https://user-images.githubusercontent.com/63386979/170784722-7d7ce744-943a-41b1-9870-99deb5c4068a.png)
 
-## Algorithm Table — [4] Solved 
+### Algorithm Table — [4] Solved
 | No.    |  Title  |  Solution | Complexity |  Difficulty |
 |:--------:|:--------------------------------------------------------------|:--------:|:--------:|:--------:|
 |0001|Two Sum|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0001.two_sum/two_sum.py)|O(N)|Easy|
@@ -13,7 +20,7 @@ A complete repository of LeetCode solutions. LeetCode is an online algorithm jud
 
 ---
 
-## Data Structures
-Data Structures or `DS` are key to understanding the fundmentals of programming. They teach us how data is stored, retrieved, and updated. In this repository, the following data structures are written: linked list, tree, stack, queue,  graph, and heap.
+## Data Structures 🏛
+Data Structures or `DS` are key to understanding the fundmentals of programming. They teach us how data is stored, retrieved, and updated. In this repository, the following data structures are written: linked list, tree, stack, queue,  graph, and heap. Each data structure implementation comes with a test file as well as a README to reinforce the learnings. 
 
 ![image](https://user-images.githubusercontent.com/63386979/170795648-48bc2167-7dd7-4118-a8de-79b06f629ff5.png)
