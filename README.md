@@ -12,7 +12,7 @@ LeetCode is an online algorithm judging platform for engineers and mathmatcians 
 
 ![image](https://user-images.githubusercontent.com/63386979/170784722-7d7ce744-943a-41b1-9870-99deb5c4068a.png)
 
-### Algorithm Table — [8] Solved
+### Algorithm Table — [9] Solved
 | No.    |  Title  |  Solution | Complexity |  Difficulty |
 |:--------:|:--------------------------------------------------------------|:--------:|:--------:|:--------:|
 |0001|Two Sum|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0001.two_sum/two_sum.py)|O(N)|Easy|
@@ -23,6 +23,7 @@ LeetCode is an online algorithm judging platform for engineers and mathmatcians 
 |0028|Implement strStr()|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0028.implement_strStr/implement_strStr.py)| O(N)|Easy|
 |0049|Group Anagrams|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0049.group_anagrams/group_anagrams.py)| O(Nlog(N))|Medium|
 |0051|N-Queens|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0051.n_queens/n_queens.py)| O(N^2)|Hard|
+|0053|Maximum Subarray|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0053.maximum_subarray/maximum_subarray.py)| O(N)|Easy|
 ---
 
 ## Data Structures 🏛
