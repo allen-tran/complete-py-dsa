@@ -1,6 +1,8 @@
 # Complete Handbook for DSA Solutions in Python 🐍
 
-A complete repository containing data structure implementations and LeetCode solutions. This can be used as a handbook to reference and learn these implementations in depth and a guide to study for interviews. Please feel free to reference and star to support this repo, thank you!
+A complete repository containing data structure implementations and LeetCode solutions. This can be used as a handbook to reference and learn these implementations in depth and a guide to study for interviews. Each python file follows the [pycodestyle](https://pypi.org/project/pycodestyle/) style guide.
+
+Please feel free to reference and star to support this repo, thank you!
 
 ![image](https://user-images.githubusercontent.com/63386979/170837571-cc97bcc9-5faa-4c4a-b227-ea354f1b2160.png)
 
@@ -10,7 +12,7 @@ LeetCode is an online algorithm judging platform for engineers and mathmatcians 
 
 ![image](https://user-images.githubusercontent.com/63386979/170784722-7d7ce744-943a-41b1-9870-99deb5c4068a.png)
 
-### Algorithm Table — [7] Solved
+### Algorithm Table — [8] Solved
 | No.    |  Title  |  Solution | Complexity |  Difficulty |
 |:--------:|:--------------------------------------------------------------|:--------:|:--------:|:--------:|
 |0001|Two Sum|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0001.two_sum/two_sum.py)|O(N)|Easy|
@@ -24,6 +26,12 @@ LeetCode is an online algorithm judging platform for engineers and mathmatcians 
 ---
 
 ## Data Structures 🏛
-Data Structures or `DS` are key to understanding the fundmentals of programming. They teach us how data is stored, retrieved, and updated. In this repository, the following data structures are written: linked list, tree, stack, queue,  graph, and heap. Each data structure implementation comes with a test file as well as a README to reinforce the learnings. 
+
+Data Structures or `DS` are key to understanding the fundmentals of programming. They teach us how data is stored, retrieved, and updated. Each data structure implementation comes with a test file as well as a README to reinforce the learnings. 
 
 ![image](https://user-images.githubusercontent.com/63386979/170795648-48bc2167-7dd7-4118-a8de-79b06f629ff5.png)
+
+In this repository, the following data structures are implemented:
+1. [Linked List](https://github.com/allen-tran/complete-py-dsa/blob/main/data%20structures/linked%20list/linked_list.py)
+2. [Weighted Graph](https://github.com/allen-tran/complete-py-dsa/blob/main/data%20structures/graph/weighted_graph.py)
+3. Trie

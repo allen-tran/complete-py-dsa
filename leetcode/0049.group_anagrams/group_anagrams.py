@@ -6,7 +6,9 @@ def groupAnagrams(strs):
         # sort the word
         temp = "".join(sorted(word))
         if temp not in word_dictionary:
-            word_dictionary[temp] = [word]
+            word_dictionary[temp] = list([word])
         else:
             word_dictionary[temp].append(word)
-    return [word for word in word_dictionary.values()]
+    res = [word for word in word_dictionary.values()]
+    res.sort(key=len)
+    return res
