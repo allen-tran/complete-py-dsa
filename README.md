@@ -20,7 +20,7 @@ LeetCode is an online algorithm judging platform for engineers and mathmatcians 
 |0014|Longest Common Prefix|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0014.longest_common_prefix/longest_common_prefix.py)| O(Nlog(N))|Easy|
 |0028|Implement strStr()|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0028.implement_strStr()/implement_strStr().py)| O(N)|Easy|
 |0049|Group Anagrams|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0049.group_anagrams/group_anagrams.py)| O(Nlog(N))|Medium|
-|0051|N-Queens|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0051.n-queens/n-queens.py)| O(N^2)|Hard|
+|0051|N-Queens|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0051.n_queens/n_queens.py)| O(N^2)|Hard|
 ---
 
 ## Data Structures 🏛
