@@ -1,6 +1,3 @@
-from curses.ascii import NL
-
-
 def solveNQueens(n):
     col = set()
     pos_diag = set()
