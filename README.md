@@ -10,7 +10,7 @@ LeetCode is an online algorithm judging platform for engineers and mathmatcians 
 
 ![image](https://user-images.githubusercontent.com/63386979/170784722-7d7ce744-943a-41b1-9870-99deb5c4068a.png)
 
-### Algorithm Table — [6] Solved
+### Algorithm Table — [7] Solved
 | No.    |  Title  |  Solution | Complexity |  Difficulty |
 |:--------:|:--------------------------------------------------------------|:--------:|:--------:|:--------:|
 |0001|Two Sum|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0001.two_sum/two_sum.py)|O(N)|Easy|
@@ -19,7 +19,8 @@ LeetCode is an online algorithm judging platform for engineers and mathmatcians 
 |0011|Container with Most Water|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0011.container_with_most_water/container_with_most_water.py)| O(N)|Medium|
 |0014|Longest Common Prefix|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0014.longest_common_prefix/longest_common_prefix.py)| O(Nlog(N))|Easy|
 |0028|Implement strStr()|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0028.implement_strStr()/implement_strStr().py)| O(N)|Easy|
-|0028|Group Anagrams|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0049.group_anagrams/group_anagrams.py)| O(Nlog(N))|Medium|
+|0049|Group Anagrams|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0049.group_anagrams/group_anagrams.py)| O(Nlog(N))|Medium|
+|0051|N-Queens|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0051.n-queens/n-queens.py)| O(N^2)|Hard|
 ---
 
 ## Data Structures 🏛
