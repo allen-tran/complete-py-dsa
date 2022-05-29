@@ -18,7 +18,8 @@ LeetCode is an online algorithm judging platform for engineers and mathmatcians 
 |0004|Median of two Sorted Arrays|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0004.median_of_two_sorted_arrays/median_of_two_sorted_arrays.py)| O(log(M+N))|Hard|
 |0011|Container with Most Water|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0011.container_with_most_water/container_with_most_water.py)| O(N)|Medium|
 |0014|Longest Common Prefix|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0014.longest_common_prefix/longest_common_prefix.py)| O(Nlog(N))|Easy|
-|0028|Longest Common Prefix|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0028.implement_strStr()/implement_strStr().py)| O(N)|Easy|
+|0028|Implement strStr()|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0028.implement_strStr()/implement_strStr().py)| O(N)|Easy|
+|0028|Group Anagrams|[Py](https://github.com/allen-tran/leetcode-python/blob/main/leetcode/0049.group_anagrams/group_anagrams.py)| O(Nlog(N))|Medium|
 ---
 
 ## Data Structures 🏛
