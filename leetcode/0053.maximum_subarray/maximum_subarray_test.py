@@ -1,4 +1,4 @@
-from maximun_subarray import *
+from maximum_subarray import *
 
 
 def test():
