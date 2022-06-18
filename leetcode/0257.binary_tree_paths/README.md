@@ -1,4 +1,4 @@
-# [. ](https://leetcode.com/problems/binary-tree-paths/)
+# [0257. Binary Tree Paths ](https://leetcode.com/problems/binary-tree-paths/)
 
 
 ## Question
