@@ -12,20 +12,21 @@ LeetCode is an online algorithm judging platform for engineers and mathmatcians 
 
 ![image](https://user-images.githubusercontent.com/63386979/170784722-7d7ce744-943a-41b1-9870-99deb5c4068a.png)
 
-### Algorithm Table — [13] Solved
+### Algorithm Table — [14] Solved
 
-| No.  | Title                                          |                                                                                    Solution                                                                                     | Complexity  | Difficulty |
+| No.| Title| Solution | Complexity  | Difficulty |
 | :--: | :--------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: | :--------: |
-| 0001 | Two Sum                                        |                                         [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0001.two_sum/two_sum.py)                                          |    O(N)     |    Easy    |
-| 0003 | Longest Substring without Repeating Characters | [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0003.longest_substring_without_repeating_characters.py/longest_substring_without_repeating_characters.py) |    O(N)     |   Medium   |
-| 0004 | Median of two Sorted Arrays                    |                     [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0004.median_of_two_sorted_arrays/median_of_two_sorted_arrays.py)                      | O(log(M+N)) |    Hard    |
-| 0011 | Container with Most Water                      |                       [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0011.container_with_most_water/container_with_most_water.py)                        |    O(N)     |   Medium   |
-| 0014 | Longest Common Prefix                          |                           [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0014.longest_common_prefix/longest_common_prefix.py)                            | O(Nlog(N))  |    Easy    |
-| 0028 | Implement strStr()                             |                                [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0028.implement_strStr/implement_strStr.py)                                 |    O(N)     |    Easy    |
-| 0049 | Group Anagrams                                 |                                  [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0049.group_anagrams/group_anagrams.py)                                   | O(Nlog(N))  |   Medium   |
+| 0001 | Two Sum| [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0001.two_sum/two_sum.py) |    O(N)     |    Easy    |
+| 0003 | Longest Substring without Repeating Characters | [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0003.longest_substring_without_repeating_characters.py/longest_substring_without_repeating_characters.py) | O(N)     |   Medium   |
+| 0004 | Median of two Sorted Arrays|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0004.median_of_two_sorted_arrays/median_of_two_sorted_arrays.py)| O(log(M+N)) |    Hard    |
+| 0011 | Container with Most Water|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0011.container_with_most_water/container_with_most_water.py)|    O(N)     |   Medium   |
+| 0014 | Longest Common Prefix|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0014.longest_common_prefix/longest_common_prefix.py)| O(Nlog(N))  |    Easy    |
+| 0028 | Implement strStr()|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0028.implement_strStr/implement_strStr.py)|    O(N)     |    Easy    |
+| 0049 | Group Anagrams|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0049.group_anagrams/group_anagrams.py)| O(Nlog(N))  |   Medium   |
 | 0051 | N-Queens |[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0051.n_queens/n_queens.py) |   O(N^2)    |    Hard    |
-| 0053 | Maximum Subarray                               |                                [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0053.maximum_subarray/maximum_subarray.py)                                 |    O(N)     |    Easy    |
+| 0053 | Maximum Subarray|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0053.maximum_subarray/maximum_subarray.py)|    O(N)     |    Easy    |
 | 0125 | Valid Palindrome|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0125.valid_palindrome/valid_palindrome.py)|    O(N)     |    Easy    |
+| 0155 | Min Stack |[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0155.min_stack/min_stack.py)|    O(1)     |    Medium    |
 | 0217 | Contains Duplicate|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0217.contains_duplicate/contains_duplicate.py)|    O(N)     |    Easy    |
 | 0257 | Binary Tree Paths                              |                               [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/00257.binary_tree_paths/binary_tree_paths.py)                               |    O(N)     |    Easy    |
 
