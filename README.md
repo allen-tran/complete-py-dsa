@@ -28,7 +28,7 @@ LeetCode is an online algorithm judging platform for engineers and mathmatcians 
 | 0125 | Valid Palindrome|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0125.valid_palindrome/valid_palindrome.py)|    O(N)     |    Easy    |
 | 0155 | Min Stack |[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0155.min_stack/min_stack.py)|    O(1)     |    Medium    |
 | 0217 | Contains Duplicate|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0217.contains_duplicate/contains_duplicate.py)|    O(N)     |    Easy    |
-| 0257 | Binary Tree Paths                              |                               [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/00257.binary_tree_paths/binary_tree_paths.py)                               |    O(N)     |    Easy    |
+| 0257 | Binary Tree Paths                              |                               [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0257.binary_tree_paths/binary_tree_paths.py)                               |    O(N)     |    Easy    |
 
 ---
 
