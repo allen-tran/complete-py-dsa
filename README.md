@@ -12,7 +12,7 @@ LeetCode is an online algorithm judging platform for engineers and mathmatcians 
 
 ![image](https://user-images.githubusercontent.com/63386979/170784722-7d7ce744-943a-41b1-9870-99deb5c4068a.png)
 
-### Algorithm Table — [14] Solved
+### Algorithm Table — [18] Solved
 
 | No.| Title| Solution | Complexity  | Difficulty |
 | :--: | :--------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: | :--------: |
@@ -25,7 +25,11 @@ LeetCode is an online algorithm judging platform for engineers and mathmatcians 
 | 0049 | Group Anagrams|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0049.group_anagrams/group_anagrams.py)| O(Nlog(N))  |   Medium   |
 | 0051 | N-Queens |[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0051.n_queens/n_queens.py) |   O(N^2)    |    Hard    |
 | 0053 | Maximum Subarray|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0053.maximum_subarray/maximum_subarray.py)|    O(N)     |    Easy    |
-| 0125 | Valid Palindrome|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0125.valid_palindrome/valid_palindrome.py)|    O(N)     |    Easy    |
+| 0054 | Spiral Matrix|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0054.spiral_matrix/spiral_matrix.py)| O(M+N)     |    Medium    |
+| 0056 | Merge Intervals |[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0056.merge_intervals/merge_intervals.py)|    O(Nlog(N))     |    Medium    |
+| 0058 | Length of Last Word|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0058.length_of_last_word/length_of_last_word.py)|    O(N)     |    Easy    |
+| 0094 | Binary Tree Inorder Traversal|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0094.binary_tree_inorder_traversal/binary_tree_inorder_traversal.py)|    O(N)     |    Easy    |
+| 0125 | Valid Palindrome |[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0125.valid_palindrome/valid_palindrome.py)|    O(N)     |    Easy    |
 | 0155 | Min Stack |[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0155.min_stack/min_stack.py)|    O(1)     |    Medium    |
 | 0217 | Contains Duplicate|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0217.contains_duplicate/contains_duplicate.py)|    O(N)     |    Easy    |
 | 0257 | Binary Tree Paths                              |                               [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0257.binary_tree_paths/binary_tree_paths.py)                               |    O(N)     |    Easy    |
