@@ -1,4 +1,4 @@
-from length_of_last_word import *
+from course_schedule import *
 
 
 def test():

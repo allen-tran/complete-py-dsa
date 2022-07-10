@@ -1,4 +1,4 @@
-from import *
+from binary_tree_inorder_traversal import *
 
 
 def test():

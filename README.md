@@ -12,7 +12,7 @@ LeetCode is an online algorithm judging platform for engineers and mathmatcians 
 
 ![image](https://user-images.githubusercontent.com/63386979/170784722-7d7ce744-943a-41b1-9870-99deb5c4068a.png)
 
-### Algorithm Table — [18] Solved
+### Algorithm Table — [19] Solved
 
 | No.| Title| Solution | Complexity  | Difficulty |
 | :--: | :--------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: | :--------: |
@@ -31,6 +31,7 @@ LeetCode is an online algorithm judging platform for engineers and mathmatcians 
 | 0094 | Binary Tree Inorder Traversal|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0094.binary_tree_inorder_traversal/binary_tree_inorder_traversal.py)|    O(N)     |    Easy    |
 | 0125 | Valid Palindrome |[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0125.valid_palindrome/valid_palindrome.py)|    O(N)     |    Easy    |
 | 0155 | Min Stack |[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0155.min_stack/min_stack.py)|    O(1)     |    Medium    |
+| 0207 | Course Schedule|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0207.course_schedule/course_schedule.py)|    O(V+E)     |    Medium    |
 | 0217 | Contains Duplicate|[Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0217.contains_duplicate/contains_duplicate.py)|    O(N)     |    Easy    |
 | 0257 | Binary Tree Paths                              |                               [Py](https://github.com/allen-tran/complete-py-dsa/blob/main/leetcode/0257.binary_tree_paths/binary_tree_paths.py)                               |    O(N)     |    Easy    |
 

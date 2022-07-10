@@ -1,4 +1,4 @@
-from import *
+from valid_palindrome import *
 
 
 def test():

@@ -1,4 +1,4 @@
-from import *
+from min_stack import *
 
 
 def test():
