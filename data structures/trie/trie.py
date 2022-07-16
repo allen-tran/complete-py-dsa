@@ -22,3 +22,7 @@ class Trie:
 
     def is_empty(self):
         return not self.root.children
+
+
+if __name__ == "__main__":
+    root = TrieNode(5)

@@ -125,6 +125,6 @@ Iteration     | for k in d:  | O(N)          | all forms: keys, values, items, W
 
 ## Helpful Resources
 
-1. [Compitive Programming Handbook](https://cses.fi/book/book.pdf) 
+1. [Competitive Programming Handbook](https://cses.fi/book/book.pdf) 
 2. [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview?utm_term=grokking%20the%20coding%20interview&utm_campaign=%5BTest%5D+Dynamic+Verticals&utm_source=adwords&utm_medium=ppc&hsa_acc=5451446008&hsa_cam=14045073269&hsa_grp=135456430042&hsa_ad=584258867265&hsa_src=g&hsa_tgt=kwd-586801686237&hsa_kw=grokking%20the%20coding%20interview&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwtcCVBhA0EiwAT1fY7xaJyIJazvftqXqJyyMzJp7i3G2wzSYPb_Nj67kkPmJjaRsd0HBXNRoCm3EQAvD_BwE)
 3. [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?gclid=CjwKCAjwtcCVBhA0EiwAT1fY71Ez2P-ZkrUdleKX8FISOCjMPArC0tBchKPS4wR7WOAEv654sC0wMxoCTn0QAvD_BwE&hvadid=241871347365&hvdev=c&hvlocphy=9028770&hvnetw=g&hvqmt=b&hvrand=11460318510657825342&hvtargid=kwd-299613214513&hydadcr=16435_10305567&keywords=cracking+the+coding+interview+book&qid=1655785687&sr=8-1)
