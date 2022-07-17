@@ -10,7 +10,7 @@ def solve_knapsack(profits, weights, capacity):
     for i in range(0, n):
         dp[i][0] = 0
 
-    for c in range(0, capacity+1):
+    for c in range(capacity+1):
         if weights[0] <= c:
             dp[0][c] = profits[0]
 
