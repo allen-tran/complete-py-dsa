@@ -6,7 +6,7 @@ class Solution:
         while left < right:
             while left < right and not s[left].isalnum():
                 left += 1
-            while left < right and not s[right].isalnum():
+            while left < right or not s[right].isalnum():
                 right -= 1
             if left < right and s[left] != s[right]:
                 return False
@@ -17,4 +17,4 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    print(s.isPalindrome(""))
+    print(s.isPalindrome("racecar"))
